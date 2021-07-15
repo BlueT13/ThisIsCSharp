@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Chapter2
+namespace Chapter3
 {
     class MainApp
     {
         static void Main(string[] args)
         {
-            Hello.PrintHello(args);
+            IntegralTypes.PrintIntegralTypes(args);
         }
     }
 }

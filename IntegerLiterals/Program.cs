@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Chapter2
+namespace IntegerLiterals
 {
-    class MainApp
+    class Program
     {
         static void Main(string[] args)
         {
-            Hello.PrintHello(args);
+            Console.WriteLine("Hello World!");
         }
     }
 }

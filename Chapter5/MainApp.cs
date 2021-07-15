@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Chapter3
+namespace Chapter5
 {
-    class Program
+    class MainApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IfElse.PrintIfElse(args);
         }
     }
 }

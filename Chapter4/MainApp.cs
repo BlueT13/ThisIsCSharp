@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Chapter2
+namespace Chapter4
 {
     class MainApp
     {
         static void Main(string[] args)
         {
-            Hello.PrintHello(args);
+            ArithmaticOperators.PrintArithmaticOperators(args);
         }
     }
 }
