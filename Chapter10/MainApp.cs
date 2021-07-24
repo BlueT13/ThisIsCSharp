@@ -4,7 +4,7 @@ namespace Chapter10
 {
     class MainApp
     {
-        static void main(string[] args)
+        static void Main(string[] args)
         {
             ArraySample.PrintArraySample(args);
         }
