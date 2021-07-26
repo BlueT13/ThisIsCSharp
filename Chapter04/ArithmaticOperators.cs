@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter4
+namespace Chapter04
 {
     class ArithmaticOperators
     {

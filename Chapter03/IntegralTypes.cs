@@ -1,6 +1,6 @@
 using System; 
  
-namespace Chapter3
+namespace Chapter03
 { 
     class IntegralTypes
     { 
@@ -24,7 +24,7 @@ namespace Chapter3
             long g  = -5000_0000_0000; // 0이 11개 
             ulong h = 200_0000_0000_0000_0000; // 0이 18개 
  
-            Console.WriteLine($"g={g}, h={h}"); 
+            Console.WriteLine($"g={g}, h={h}");
         } 
     } 
 }

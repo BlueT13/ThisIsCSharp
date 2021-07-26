@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter6
+namespace Chapter06
 {
     class Return
     {

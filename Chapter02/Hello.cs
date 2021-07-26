@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
 
-namespace Chapter2
+namespace Chapter02
 {
     class Hello
     {

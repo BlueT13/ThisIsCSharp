@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter2
+namespace Chapter02
 {
     class MainApp
     {

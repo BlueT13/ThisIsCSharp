@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter5
+namespace Chapter05
 {
     class IfElse
     {
@@ -9,7 +9,7 @@ namespace Chapter5
             Console.Write("숫자를 입력하세요. : ");
 
             string input = Console.ReadLine();
-            int number = Int32.Parse( input );
+            int number = Int32.Parse(input);
 
             if (number < 0)
                 Console.WriteLine("음수");

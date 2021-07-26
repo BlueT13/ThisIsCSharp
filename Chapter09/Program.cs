@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter9
+namespace Chapter09
 {
     class Program
     {
