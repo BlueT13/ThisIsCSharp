@@ -2,7 +2,7 @@
 
 namespace Chapter09
 {
-    class Program
+    class MainApp
     {
         static void Main(string[] args)
         {

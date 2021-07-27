@@ -36,6 +36,14 @@ namespace Chapter06
             carrot.PrintPrice();
             Console.WriteLine($"Local Price :{ref_local_price}");
             Console.WriteLine($"Normal Local Price :{normal_local_price}");
+            //
+            int a = 20;
+            int b = 3;
+            UsingOut.Divide(a, b, out int c, out int d);
+            Console.WriteLine($"{a},{b},{c},{d}");
+            //
+            int sum = UsingParams.Sum(3, 4, 5, 6, 7, 8, 9, 10);
+            Console.WriteLine($"{sum}");
         }
     }
 }
